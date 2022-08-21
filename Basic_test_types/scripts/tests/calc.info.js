@@ -3,7 +3,7 @@
  */
 
 const addition = require("../calc");
-/** Tests a basic function */
+//----------------------------------------------------------------- Tests a basic function
 describe("Calculator", () => {
     describe("Addition function", () => {
         test("should return 42 for 20 + 22", () => {
